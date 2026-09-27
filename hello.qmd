@@ -7,3 +7,7 @@ editor: visual
 ```{r}
 summary(cars)
 ```
+
+```{r}
+str(cars)
+```
