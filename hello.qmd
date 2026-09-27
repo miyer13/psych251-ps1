@@ -1,0 +1,9 @@
+---
+title: "Hello"
+format: html
+editor: visual
+---
+
+```{r}
+summary(cars)
+```
